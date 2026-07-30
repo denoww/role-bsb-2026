@@ -1,6 +1,9 @@
-# Rolê BSB — 31 jul a 2 ago 2026
+# Rolê Brasília — endereço antigo
 
-Guia dos rolês de Brasília de sexta a domingo: Capital Moto Week, Favela Sounds,
-feijoada com samba e mais 10 opções — com mapa, horários, o que tem em cada um e preços.
+Este repositório virou apenas um **redirecionamento**. O roteiro passou a ser publicado
+junto com os outros em:
 
-**PDF:** [Role-BSB-2026.pdf](Role-BSB-2026.pdf) · **Página:** https://denoww.github.io/role-bsb-2026/
+**https://denoww.github.io/viagens/bsb-2026/**
+
+O `index.html` daqui redireciona pra lá, e o `Role-BSB-2026.pdf` continua servido para não quebrar
+quem salvou o link direto do arquivo. Não publicar nada novo neste repo.
